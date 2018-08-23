@@ -1,14 +1,11 @@
 .jumbotron{
-    background-color: rgba(85,183,171,0.80);
-    
-   /* background-size: 100%;*/
-    color: #ecf0f1;
-    margin-bottom: 0px;
-    /* margin-top: 50px; */
-    min-height: 100%;
+    background-color: #34495e;
+         margin-bottom: 0px;
+   color:#ffffff;
    font-family: Cairo;
 
 }
+
 
 .my-warning{
 text-align: center;
@@ -164,7 +161,6 @@ a{
  }
  #home{
     padding-top: 50px;
-
  }
 .mynav{
     padding-left: 180px;
@@ -184,4 +180,12 @@ h4,p{
 }
 .mysend{
     font-family:Cairo;
+}
+.mylink:hover{
+    color:#ffffff;
+    font-family: Oswald;
+}
+.mylink{
+     color: #009688 ;
+    font-family: Oswald;
 }
