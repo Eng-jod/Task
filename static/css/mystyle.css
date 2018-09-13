@@ -290,3 +290,6 @@ transition: all 0.9s ease 0s;
     background: #f7f5ec;
     text-decoration: none;
 }
+.title{
+    padding-top: 75px;
+}
