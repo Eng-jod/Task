@@ -293,3 +293,21 @@ transition: all 0.9s ease 0s;
 .title{
     padding-top: 75px;
 }
+.but{
+    border: 1px solid #009688;
+    padding: 10px;
+    color: #009688;
+    background: #ecf0f1;
+    border-radius: 5px;
+    transition: all 0.5s;
+font-size: 15px;
+}
+.but:hover{
+    border: 1px solid #009688;
+    padding: 10px;
+    color: #ecf0f1;
+    background: #009688;
+    border-radius: 5px;
+    transition: all 0.5s;
+font-size: 15px;
+}
